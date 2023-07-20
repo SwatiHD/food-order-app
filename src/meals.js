@@ -24,3 +24,5 @@ const DUMMY_MEALS = [
         price: 14.00
     },
 ]
+
+export default DUMMY_MEALS;
